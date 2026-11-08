@@ -1,0 +1,35 @@
+# ---- Keil MDK / ARM 编译产物（不要提交）----
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.uvguix.*
+*.uvoptx
+*.dep
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.iex
+*.htm
+*.sct
+*.build_log.htm
+JLinkLog.txt
+EventRecorderStub.scvd
+
+# ---- 编辑器 / 系统垃圾文件 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp
+
+# ---- 临时文件 ----
+*.tmp
+*.bak
+*~
